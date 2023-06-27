@@ -19,7 +19,7 @@ This is just for your convenience... We in no way endorse any of these products 
 <li> For 0.031" diameter SAC 305 water soluble flux cored solder wire we use Kester P/N 2470686403
 </li>  
 
-Both of the products are compatible with another flux we use TSF-6852 Tacky solder flux (Kester P/N 300203)  
+Both of the products are compatible with another flux we use: TSF-6852 Tacky solder flux (Kester P/N 300203)  
 
 TPU
 <li> For the 95A durometer TPU filament we use 
