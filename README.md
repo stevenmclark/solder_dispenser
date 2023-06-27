@@ -21,7 +21,7 @@ This is just for your convenience... We in no way endorse any of these products 
 
 Both of the products are compatible with another flux we use: TSF-6852 Tacky solder flux (Kester P/N 300203)  
 
-TPU
+**TPU**
 <li> For the 95A durometer TPU filament we use 
 <li> For the 85A durometer TPU filament we use 
 </li>
