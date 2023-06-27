@@ -2,7 +2,7 @@
 A re-useable, 3D printed solder dispenser  
 
 <p align="center">
-  ![section view of solder dispenser](/assets/section.png)
+  <img src="/assets/section.png" />
 </p>  
 
 Solder is often available by the pound on spools. This is very convenient if one uses a lot of solder wire, but for folks that need smaller amounts for makerspaces, academic labs, etc. a spool of solder can be too large a quantity for easy handling. While there are smaller "pocket pack" size packages available, these aren't typically available with the type of flux favored by some. For example, the lead-free solder available from Kester in the "pocket pack" has a rosin core; for our work we prefer water-soluble flux for easy cleaning without the use of organic solvents.  
