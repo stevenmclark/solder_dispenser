@@ -14,12 +14,12 @@ The dispensers can be re-wound with the correct solder wire when they have run e
 More details:
 This is just for your convenience... We in no way endorse any of these products or suppliers.  
 
-Solder
+**Solder**
 <li> For 0.020" diameter SAC 305 water soluble flux cored solder wire we use Kester P/N 2470686401
 <li> For 0.031" diameter SAC 305 water soluble flux cored solder wire we use Kester P/N 2470686403
-</li>
-Both of the products are compatible with another flux we use TSF-6852 Tacky solder flux (Kester P/N 300203)
+</li>  
 
+Both of the products are compatible with another flux we use TSF-6852 Tacky solder flux (Kester P/N 300203)  
 
 TPU
 <li> For the 95A durometer TPU filament we use 
